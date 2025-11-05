@@ -1,19 +1,4 @@
-{
-  "devices": [
-    {
-      "serial": "80Q6H64",
-      "email": "sudip.prakash@amentumcms.com",
-      "name": "Sudip H Prakash"
-    },
-	{
-      "serial": "HR30574",
-      "email": "santosh.kumarjha@amentumcms.com",
-      "name": "Santosh Kumar Jha"
-    }
-  ],
-  "otp": {
-    "length": 6,
-    "valid_minutes": 10
-  }
-
-}
+[
+  {"serial": "80Q6H64", "email": "sudip.prakash@amentumcms.com", "name": "Sudip H Prakash"},
+  {"serial": "HR30574", "email": "santosh.kumarjha@amentumcms.com", "name": "Santosh Kumar Jha"}
+]
